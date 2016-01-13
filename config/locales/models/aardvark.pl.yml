@@ -1,0 +1,6 @@
+pl:
+  activerecord:
+    models:
+      aardvark:
+    attributes:
+      aardvark:

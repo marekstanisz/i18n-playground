@@ -1,5 +1,6 @@
 class LanguagesController < ApplicationController
   after_action :set_session_and_redirect
+
   def polish
     I18n.locale = :pl
   end
